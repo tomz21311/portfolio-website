@@ -7,11 +7,9 @@ export function ContactSection() {
       <h2>{contact.headline}</h2>
       <p>{contact.subtext}</p>
       <div className="hero-actions">
-        <a className="btn btn-solid" href={`mailto:${contact.email}`}>
-          Email Tom
-        </a>
+        {/* Email button hidden temporarily */}
         <a
-          className="btn btn-outline"
+          className="btn btn-solid"
           href={contact.linkedInUrl}
           target="_blank"
           rel="noreferrer"
