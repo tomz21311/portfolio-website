@@ -6,6 +6,6 @@ export const about = {
     'Most of my career has been spent working with nonprofits, foundations, arts and other mission-driven organizations. I care about making useful things with clear purpose.',
     'Outside of work, I enjoy outdoor activities like skiing and hiking, music, and most importantly, spending time with my kids.',
   ],
-  headshotSrc: null as string | null,
+  headshotSrc: '/assets/headshot.jpg' as string | null,
   headshotAlt: 'Tom Zeleznock',
 }

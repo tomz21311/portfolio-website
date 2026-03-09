@@ -21,7 +21,7 @@ export function AboutSection() {
               src={about.headshotSrc}
               alt={about.headshotAlt}
               fill
-              style={{ objectFit: 'cover' }}
+              style={{ objectFit: 'cover', objectPosition: 'center 10%' }}
             />
           ) : (
             <span>Headshot Placeholder</span>

@@ -803,6 +803,7 @@ h3 {
 }
 
 .headshot-placeholder {
+  position: relative;
   border: 1px solid var(--stroke);
   border-radius: var(--radius-lg);
   min-height: 270px;
