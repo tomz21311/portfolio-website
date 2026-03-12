@@ -8,6 +8,7 @@ interface Video {
   label: string
   title: string
   description: string
+  longDescription?: string
   href: string
   image: string
 }
@@ -44,7 +45,7 @@ function VideoModal({ video, onClose }: { video: Video; onClose: () => void }) {
             <div>
               <span className="video-label">{video.label}</span>
               <h3>{video.title}</h3>
-              <p>{video.description}</p>
+              <p>{video.longDescription ?? video.description}</p>
             </div>
             {video.href !== '#' && (
               <a

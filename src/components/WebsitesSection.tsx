@@ -37,6 +37,7 @@ export function WebsitesSection() {
             <p>{site.description}</p>
             <Link
               href={`/websites/${site.slug}`}
+              className="btn btn-outline"
               aria-label={`View case study for ${site.title}`}
             >
               View case study

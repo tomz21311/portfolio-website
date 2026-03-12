@@ -47,15 +47,6 @@ export default async function CaseStudyPage({ params }: Props) {
             {site.description}
           </p>
 
-          {/* Meta tags */}
-          <div className="case-study-meta">
-            <span className="meta-tag role">{site.role}</span>
-            {site.tools.map((tool) => (
-              <span key={tool} className="meta-tag">
-                {tool}
-              </span>
-            ))}
-          </div>
         </section>
 
         {/* ── Primary screenshot ── */}
