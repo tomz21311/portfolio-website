@@ -268,7 +268,7 @@ export function AIHexMapSection() {
         <p className="ai-section-subtitle">{aiIntro.body}</p>
       </div>
       <HexMap />
-      <DiscoverSearch />
+      {/* <DiscoverSearch /> */}
     </ScrollReveal>
   )
 }

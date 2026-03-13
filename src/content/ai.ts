@@ -1,7 +1,7 @@
 export const aiIntro = {
   eyebrow: 'AI Section',
   title: 'Exploring AI',
-  body: "I have been utilizing AI in various capacities for years, exploring different tools and examining how to incorporate into individual and organizational workflows. I'm interested in the ways AI can be used to increase productivity and expand capability. I want to use AI in ways that expands people's creativity, not replaces it.",
+  body: "I have been utilizing AI in various capacities for years, exploring different tools and examining how to incorporate into individual and organizational workflows. I'm interested in the ways AI can be used to increase productivity and expand capability. I want to use AI in ways that help make people better, not replace them.",
 }
 
 export const aiCapabilities = [
@@ -18,22 +18,22 @@ export const aiCapabilities = [
   {
     title: 'Workflow &\nProductivity',
     description:
-      'I use AI to help with time-consuming or repetitive tasks, freeing up time for higher-value work.',
+      "I'm in the process of assessing ways that AI can contribute to both my personal productivity and my organization's internal processes, such as task automation and creation of knowledge bases.",
   },
   {
     title: 'SEO & AI\nOptimization',
     description:
-      "I use AI to assist with search engine optimization. In addition, I'm currently learning about ways to optimize for AI-driven search and chatbots.",
+      "I have 15+ years of experience in SEO, and now I'm exploring the evolving fields of AI SEO and GEO, optimizing websites for AI-assisted search, chatbots, and lead generation.",
   },
   {
     title: 'Research &\nAnalysis',
     description:
-      'I use AI to gather and analyze public data and do market analysis. Meanwhile, I take care to protect organizational private data from public AI models.',
+      "I use AI to gather and analyze public data and do market analysis. At the same time, I'm thoughtful about implementing guardrails and protecting private or proprietary information from public AI models.",
   },
   {
     title: 'Learning and\nHelping Others',
     description:
-      'While still learning myself, I take time to help colleagues about how they can use AI effectively and responsibility in their own personal lives or work. I stay current on trends and think critically about what this technology means for my organization and sector.',
+      'Although I\'m still learning myself, I take time to help colleagues learn how they can use AI effectively and responsibly in their own personal lives or work. I stay current on trends and think critically about what this technology means for my organization and sector.',
   },
 ]
 
