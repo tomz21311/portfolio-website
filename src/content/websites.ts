@@ -33,13 +33,13 @@ export const websites: WebsiteProject[] = [
     liveUrl: null,
     caseStudy: {
       overview:
-        'A complete digital overhaul for Greater Hartford Gives Foundation, a century-old philanthropic organization. The project included a full brand relaunch alongside a new website designed to connect donors, nonprofits, and the broader community.',
+        "To coincide with its 100th anniversary in 2025, the Hartford Foundation for Public Giving undertook a complete rebranding, including changing its name to Greater Hartford Gives Foundation. I was tasked with building a new website to align with the launch and serve as the primary reintroduction of the organization to the community.",
       challenge:
-        'The organization needed a modernized digital presence that honored its long history while signaling a forward-looking mission. The existing site was outdated and did not reflect the scale or impact of the foundation\'s work.',
+        "We weren't just building a new website from scratch; we also had to launch a brand that no one had ever seen, balancing the history and trust of a 100-year-old foundation with the energy and excitement of a new name. This had to be done quietly so as not to spoil the surprise of the brand launch. And we only had 11 months for the project, a shorter timeline than I would've chosen.",
       solution:
-        'I led the design and development of a new website built around clear user journeys for donors, nonprofits, and community members. The brand system was rebuilt from the ground up — new typography, color system, and visual language — then applied consistently across all digital touchpoints.',
+        "Because this project was so important to the entire organization, we aimed to be as inclusive as possible. I led a 10-person internal project team and created several opportunities for everyone across the foundation to provide input and feedback. We chose to work with a talented firm from Brooklyn that produced an incredible design and helped us think through site architecture. We also brought back a firm that worked on the branding campaign to help with copywriting, ensuring consistency between the two connected projects. We ended up pairing our modern design with a back-to-basics content approach, reminding visitors (or telling them for the first time) who the Foundation is and what we do. Importantly, we centered the service region using videos, images, and languages, to set an immediate sense of place and feeling of inclusion for visitors.",
       outcome:
-        'The relaunched site significantly improved engagement metrics and gave the organization a digital presence that matched the ambition of its work.',
+        "It wasn't easy, but with a lot of coordination and some long days, we created a website that looked stunning, introduced the Foundation to a new audience, and made long-time stakeholders feel at home. We launched the new brand and website simultaneously at a live event with 1,200 attendees, an event that I also directed. It was an exciting and hectic night! The site has only been live for a few months, but so far the reaction has been extremely positive and we're seeing the analytics slowly trend upwards.",
     },
   },
   {
